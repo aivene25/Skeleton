@@ -1,0 +1,22 @@
+{
+    "require": {
+        "monolog/monolog": "^1.23",
+        "twig/twig": "^2.4"
+    },
+    "autoload": {
+        "psr-4":{
+            "Bookstore\\":"src"
+        }
+    },
+    "name":"Victpr/MyBookstore",
+    "description" : "Manage an online bookstore",
+    "minimum-stability" : "stable",
+    "license": "Apache-2.0",
+    "type": "Project",
+    "authors": [
+        {
+            "name": "AKerele Victor",
+            "email": "eneroakerele@gmail.com"
+        }
+    ]
+}
